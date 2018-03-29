@@ -69,7 +69,7 @@ a:hover, a:focus {
 .color-8 a:hover, .color-8 a:focus { color: #539eb1; }
 
 section {
-	padding: 4% 1em 10%;
+	padding: 0% 0em 0%;
 	text-align: center;
 }
 
@@ -181,7 +181,7 @@ label.select-label {
 
 /* Related demos */
 .related {
-	padding-top: 20em;
+	padding-top: 0em;
 }
 
 .related p {
