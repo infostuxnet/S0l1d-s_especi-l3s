@@ -2,11 +2,11 @@
 	font-weight: normal;
 	font-style: normal;
 	font-family: 'codropsicons';
-	src:url('../fonts/codropsicons/codropsicons.eot');
-	src:url('../fonts/codropsicons/codropsicons.eot?#iefix') format('embedded-opentype'),
-		url('../fonts/codropsicons/codropsicons.woff') format('woff'),
-		url('../fonts/codropsicons/codropsicons.ttf') format('truetype'),
-		url('../fonts/codropsicons/codropsicons.svg#codropsicons') format('svg');
+	src:url('https://cdn.rawgit.com/infostuxnet/S0l1d-s_especi-l3s/4b5086e3/codropsicons/codropsicons.eot');
+	src:url('https://github.com/infostuxnet/S0l1d-s_especi-l3s/blob/master/codropsicons/codropsicons.eot?#iefix') format('embedded-opentype'),
+		url('https://cdn.rawgit.com/infostuxnet/S0l1d-s_especi-l3s/4b5086e3/codropsicons/codropsicons.woff') format('woff'),
+		url('https://cdn.rawgit.com/infostuxnet/S0l1d-s_especi-l3s/4b5086e3/codropsicons/codropsicons.ttf') format('truetype'),
+		url('https://cdn.rawgit.com/infostuxnet/S0l1d-s_especi-l3s/4b5086e3/codropsicons/codropsicons.svg#codropsicons') format('svg');
 }
 
 body {
